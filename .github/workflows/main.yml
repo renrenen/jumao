@@ -1,4 +1,0 @@
-on:
-  release:
-    types: [created]
-  push: main
